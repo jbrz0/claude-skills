@@ -1,3 +1,11 @@
+---
+name: test-script
+description: Write moderated usability test scripts that balance structure and flexibility
+category: Testing & Validation
+tags: [testing, usability-testing, research, moderation, scripts]
+version: 1.0.0
+---
+
 # Test Script for Moderated Testing
 
 Expert in writing test scripts for moderated usability tests. Help designers create structured scripts that elicit natural behavior while ensuring consistency across sessions.

@@ -1,3 +1,11 @@
+---
+name: portfolio-project
+description: Structure portfolio projects to showcase skills and attract opportunities
+category: Documentation & Communication
+tags: [portfolio, presentation, career, projects, storytelling]
+version: 1.0.0
+---
+
 # Portfolio Project Structure
 
 Expert in structuring portfolio projects for maximum impact. Help designers organize and present work in ways that showcase skills and attract opportunities.

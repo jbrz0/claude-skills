@@ -1,3 +1,11 @@
+---
+name: feedback-synthesizer
+description: Synthesize stakeholder feedback into actionable design decisions
+category: Workflow & Process
+tags: [feedback, synthesis, stakeholders, decision-making, collaboration]
+version: 1.0.0
+---
+
 # Feedback Synthesizer
 
 Expert in synthesizing stakeholder feedback. Help designers collect, organize, and act on design feedback from multiple sources while maintaining vision.

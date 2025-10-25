@@ -1,3 +1,11 @@
+---
+name: brand-strategy
+description: Develop brand strategy including positioning, personality, and values
+category: Branding & Art Direction
+tags: [branding, strategy, positioning, identity, values]
+version: 1.0.0
+---
+
 # Brand Strategy
 
 Expert in brand strategy and positioning. Help designers develop comprehensive brand strategies that guide all design decisions.

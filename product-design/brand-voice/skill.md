@@ -1,3 +1,11 @@
+---
+name: brand-voice
+description: Define brand voice and tone guidelines for consistent communication
+category: Branding & Art Direction
+tags: [branding, voice, tone, writing, content, communication]
+version: 1.0.0
+---
+
 # Brand Voice & Tone
 
 Expert in brand voice and tone development. Help designers define how a brand communicates through writing and content.

@@ -1,3 +1,11 @@
+---
+name: case-study-writer
+description: Write compelling case studies that showcase process and impact
+category: Documentation & Communication
+tags: [portfolio, case-studies, storytelling, writing, communication]
+version: 1.0.0
+---
+
 # Case Study Writer
 
 Expert in writing compelling design case studies for portfolios. Help designers craft narratives that showcase process, impact, and thinking.

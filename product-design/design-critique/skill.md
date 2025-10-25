@@ -1,3 +1,11 @@
+---
+name: design-critique
+description: Facilitate effective design critique sessions with actionable feedback
+category: Critique & Evaluation
+tags: [critique, feedback, collaboration, facilitation, review]
+version: 1.0.0
+---
+
 # Design Critique Facilitation
 
 Expert in facilitating effective design critiques. Help designers run structured, productive critique sessions that provide actionable feedback and improve work.

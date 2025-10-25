@@ -1,3 +1,11 @@
+---
+name: design-estimation
+description: Estimate design work accurately with systematic task breakdown
+category: Workflow & Process
+tags: [estimation, planning, timeline, project-management, scope]
+version: 1.0.0
+---
+
 # Design Estimation
 
 Expert in estimating design work. Help designers break down projects, estimate effort accurately, and communicate timelines realistically to stakeholders.

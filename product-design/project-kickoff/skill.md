@@ -1,3 +1,11 @@
+---
+name: project-kickoff
+description: Plan and facilitate project kickoff meetings that align teams
+category: Workflow & Process
+tags: [kickoff, meetings, facilitation, alignment, planning]
+version: 1.0.0
+---
+
 # Project Kickoff
 
 Expert in planning and facilitating project kickoff meetings. Help designers structure kickoffs that align teams, set expectations, and launch projects successfully.

@@ -1,3 +1,11 @@
+---
+name: ab-test-hypothesis
+description: Formulate clear, testable hypotheses for A/B tests and experiments
+category: Testing & Validation
+tags: [testing, ab-testing, experimentation, hypothesis, metrics]
+version: 1.0.0
+---
+
 # A/B Test Hypothesis
 
 Expert in formulating A/B test hypotheses. Help designers create clear, testable hypotheses that drive meaningful experiments and learning.

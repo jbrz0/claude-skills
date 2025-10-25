@@ -1,3 +1,11 @@
+---
+name: design-rationale
+description: Articulate clear, persuasive rationale for design decisions
+category: Documentation & Communication
+tags: [rationale, communication, decisions, stakeholders, persuasion]
+version: 1.0.0
+---
+
 # Design Rationale
 
 Expert in articulating design rationale. Help designers explain the reasoning behind design decisions to stakeholders, developers, and team members.

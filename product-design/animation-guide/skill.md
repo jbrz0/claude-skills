@@ -1,3 +1,11 @@
+---
+name: animation-guide
+description: Create animation specifications with easing, timing, and UX principles
+category: Interaction Design
+tags: [animation, motion, interactions, specifications, ux]
+version: 1.0.0
+---
+
 # Animation Guide
 
 Expert in animation for digital interfaces. Help designers create animation specifications with easing, timing, and principles that enhance UX.

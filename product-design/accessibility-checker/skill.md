@@ -1,3 +1,11 @@
+---
+name: accessibility-checker
+description: Check designs for accessibility compliance and provide remediation guidance
+category: Critique & Evaluation
+tags: [accessibility, wcag, compliance, inclusive-design, audit]
+version: 1.0.0
+---
+
 # Accessibility Checker
 
 Expert in accessibility review and WCAG compliance. Help designers check designs for accessibility issues and provide remediation guidance.

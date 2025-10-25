@@ -1,3 +1,11 @@
+---
+name: design-decision-doc
+description: Document design decisions with context, rationale, and trade-offs
+category: Documentation & Communication
+tags: [documentation, decisions, rationale, communication, knowledge]
+version: 1.0.0
+---
+
 # Design Decision Documentation
 
 Expert in documenting design decisions and rationale. Help designers create clear records of decisions that explain the "why" behind design choices.

@@ -1,3 +1,11 @@
+---
+name: usability-test-plan
+description: Plan comprehensive usability tests that validate designs with users
+category: Testing & Validation
+tags: [testing, usability-testing, research, planning, validation]
+version: 1.0.0
+---
+
 # Usability Test Planning
 
 Expert in planning and conducting usability tests. Help designers create comprehensive test plans that validate designs with real users.

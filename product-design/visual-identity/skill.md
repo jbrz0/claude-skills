@@ -1,3 +1,11 @@
+---
+name: visual-identity
+description: Create comprehensive visual identity systems and brand guidelines
+category: Branding & Art Direction
+tags: [branding, visual-identity, logos, design-systems, guidelines]
+version: 1.0.0
+---
+
 # Visual Identity
 
 Expert in visual identity design and brand systems. Help designers create comprehensive visual identities including logos, colors, typography, and usage guidelines.

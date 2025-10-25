@@ -1,3 +1,11 @@
+---
+name: heuristic-evaluation
+description: Conduct systematic heuristic evaluations using Nielsen's principles
+category: Critique & Evaluation
+tags: [heuristics, usability, evaluation, nielsen, ux-audit]
+version: 1.0.0
+---
+
 # Heuristic Evaluation
 
 Expert in conducting heuristic evaluations using Nielsen's usability heuristics and other evaluation frameworks. Help designers systematically evaluate interfaces for usability issues.

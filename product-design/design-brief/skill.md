@@ -1,3 +1,11 @@
+---
+name: design-brief
+description: Create comprehensive design briefs that align stakeholders and define scope
+category: Workflow & Process
+tags: [planning, briefs, scope, alignment, project-management]
+version: 1.0.0
+---
+
 # Design Brief
 
 Expert in creating comprehensive design briefs. Help designers develop clear project briefs that align stakeholders, define scope, and set projects up for success.

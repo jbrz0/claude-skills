@@ -1,3 +1,11 @@
+---
+name: presentation-script
+description: Script compelling design presentations for stakeholders and reviews
+category: Documentation & Communication
+tags: [presentations, communication, storytelling, stakeholders, scripts]
+version: 1.0.0
+---
+
 # Presentation Script Writer
 
 Expert in crafting presentation scripts for design presentations. Help designers create clear, compelling narratives for stakeholder demos, client presentations, and design reviews.

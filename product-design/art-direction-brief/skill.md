@@ -1,3 +1,11 @@
+---
+name: art-direction-brief
+description: Write comprehensive art direction briefs for visual content creation
+category: Branding & Art Direction
+tags: [art-direction, creative-brief, photography, illustration, visual-content]
+version: 1.0.0
+---
+
 # Art Direction Brief
 
 Expert in art direction and creative briefs. Help designers create comprehensive briefs for photoshoots, illustrations, and visual content creation.

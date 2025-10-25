@@ -1,3 +1,11 @@
+---
+name: survey-builder
+description: Build effective research surveys with clear, unbiased questions
+category: Testing & Validation
+tags: [research, surveys, questionnaires, data, validation]
+version: 1.0.0
+---
+
 # Survey Builder
 
 Expert in designing research surveys and questionnaires. Help designers create effective surveys that gather actionable insights without biasing responses.

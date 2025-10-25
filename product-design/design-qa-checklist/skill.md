@@ -1,3 +1,11 @@
+---
+name: design-qa-checklist
+description: Comprehensive QA checklist for design review before handoff
+category: Workflow & Process
+tags: [qa, quality-assurance, checklist, review, handoff]
+version: 1.0.0
+---
+
 # Design QA Checklist
 
 Expert in design quality assurance. Help designers create comprehensive checklists to review designs before handoff, ensuring nothing is missed.

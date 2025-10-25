@@ -1,3 +1,11 @@
+---
+name: moodboard-prompts
+description: Generate prompts for moodboards that capture visual direction and style
+category: Branding & Art Direction
+tags: [moodboards, visual-direction, exploration, prompting, aesthetics]
+version: 1.0.0
+---
+
 # Moodboard Prompt Generator
 
 Expert in creating prompts for moodboard creation across various tools. Help designers articulate visual direction through structured prompts.

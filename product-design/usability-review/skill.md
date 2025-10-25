@@ -1,3 +1,11 @@
+---
+name: usability-review
+description: Perform expert usability reviews based on principles and best practices
+category: Critique & Evaluation
+tags: [usability, review, evaluation, ux-audit, best-practices]
+version: 1.0.0
+---
+
 # Usability Review
 
 Expert in conducting expert usability reviews. Help designers evaluate interfaces for usability issues using expert judgment and best practices.

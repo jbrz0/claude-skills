@@ -1,3 +1,11 @@
+---
+name: error-state-design
+description: Design helpful error states and recovery flows that guide users
+category: Interaction Design
+tags: [errors, states, ux, messaging, recovery]
+version: 1.0.0
+---
+
 # Error State Design
 
 Expert in designing helpful error states and recovery flows. Help designers create error experiences that inform, guide, and don't blame users.
