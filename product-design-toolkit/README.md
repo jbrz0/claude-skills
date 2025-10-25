@@ -139,34 +139,6 @@ This skills collection helps product designers with:
 - Use `case-study-writer` for compelling narratives
 - Apply `portfolio-project` structure
 
-## Skill Development Status
-
-✅ **Complete (21 skills)**
-1. user-interview-guide
-2. persona-workshop
-3. journey-mapping
-4. empathy-mapping
-5. jtbd-framework
-6. competitive-analysis
-7. research-synthesis
-8. problem-framing
-9. ia-planner
-10. design-sprint
-11. feature-prioritization
-12. user-story-writer
-13. stakeholder-interview
-14. prd-helper
-15. design-system-doc
-16. component-spec
-17. design-handoff
-18. accessibility-audit
-19. midjourney-prompter
-20. gemini-image-prompter
-21. color-palette
-
-🚧 **In Progress (29 skills)**
-22-50. (Remaining skills in development)
-
 ## Best Practices
 
 ### Combining Skills
@@ -199,13 +171,3 @@ Skills work great together in workflows:
 ## Contributing
 
 These skills are designed to evolve based on designer needs. Feedback and suggestions welcome!
-
-## About
-
-Created for product designers who want AI assistance throughout their design process, from initial research through final delivery. Each skill is crafted to provide expert-level guidance while being flexible enough to adapt to different design contexts and methodologies.
-
----
-
-**Total Skills**: 50
-**Categories**: 8
-**Status**: 21 complete, 29 in development

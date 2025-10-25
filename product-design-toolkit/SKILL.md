@@ -1,9 +1,6 @@
 ---
-name: "product-design-toolkit"
-description: "Comprehensive product design toolkit with dynamic skill routing across research, UI, interaction, testing, branding, and documentation disciplines"
-category: "Design"
-tags: ["product-design", "ux", "ui", "research", "design-systems", "interaction-design", "usability", "documentation", "branding", "accessibility"]
-version: "1.0.0"
+name: product-design-toolkit
+description: Dynamic product design skills across research, UI, interaction, testing, branding, and documentation
 ---
 
 # Product Designer Toolkit
