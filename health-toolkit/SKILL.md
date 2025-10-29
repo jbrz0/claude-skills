@@ -1,9 +1,6 @@
 ---
 name: health-toolkit
 description: Comprehensive health optimization system covering nutrition, fitness, sleep, and migraine management
-category: Health & Fitness
-tags: [health, fitness, nutrition, sleep, migraine, wellness, optimization]
-version: 1.0.0
 ---
 
 # Health Toolkit

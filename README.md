@@ -3,5 +3,6 @@
 Personalized claude skills in various categories
 
 - [x] product design toolkit
-- [ ] finance toolkit
-- [ ] health toolkit
+- [x] finance toolkit (template WIP)
+- [x] health toolkit (template WIP)
+- [ ] productivity toolkit
